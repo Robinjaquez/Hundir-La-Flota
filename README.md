@@ -33,4 +33,4 @@ El juego termina cuando todos los barcos de un jugador son hundidos.
 ### Pasos para ejecutar:
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tuusuario/hundir-la-flota.git
+   git clone https://github.com/Robinjaquez/hundir-la-flota.git
