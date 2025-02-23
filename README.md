@@ -1,4 +1,5 @@
 # 📚 Juego de Hundir la Flota
+![CI Status](https://github.com/Robinjaquez/Hundir-La-Flota/actions/workflows/prueba.yml/badge.svg)
 
 Una práctica desarrollada en Java para jugar al juego de "Hundir la flota" contra la máquina a través de la consola.
 
